@@ -1,4 +1,4 @@
 # PythonTesting
 Testing first instance of python language
 
-Using Django framework to create Web API endpoints to langauge operations / TTS / Translations
+Using Django framework to create Web API endpoints for language operations / TTS / Translations
